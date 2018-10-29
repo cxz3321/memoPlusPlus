@@ -16,7 +16,7 @@ http://icooon-mono.com/
 
 프로그램 세팅법
 1. Firebase 콘솔에 프로그램 등록
-https://firebase.google.com/docs/android/setup를 참조하십시오
+https://firebase.google.com/docs/android/setup를 참조
 2. 프로젝트 설정에서 google-service.json다운로드 후 app폴더에 google-service.json 넣기
 3. 인증 - 로그인방법 google로그인 사용
 
